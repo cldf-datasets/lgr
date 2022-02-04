@@ -70,9 +70,11 @@ Interlinear glosses are left-aligned vertically, word by word, with the example.
 
 <blockquote>
 (1) Indonesian ([Sneddon1996](#source-Sneddon1996): 237)
+
 | Mereka | di | Jakarta | sekarang. |
 |  --- | --- | --- | ---  |
 | They | in | Jakarta | now |
+
 
 ‘They are in Jakarta now.’
 </blockquote>
@@ -86,9 +88,11 @@ gloss. E.g.
 
 <blockquote>
 (2) Lezgian ([Haspelmath1993](#source-Haspelmath1993): 207)
+
 | Gila | abur-u-n | ferma | hamišaluǧ | güǧüna | amuq’-da-č. |
 |  --- | --- | --- | --- | --- | ---  |
 | now they-OBL-GEN | farm | forever | behind | stay-FUT-NEG |
+
 
 ‘Now their farm will not stay behind forever.’
 </blockquote>
@@ -101,9 +105,11 @@ in the gloss.
 
 <blockquote>
 (3) West Greenlandic ([Fortescue1984](#source-Fortescue1984): 127)
+
 | palasi=lu | niuirtur=lu |
 |  --- | ---  |
 | priest=and | shopkeeper=and |
+
 
 ‘both the priest and the shopkeeper’
 </blockquote>
@@ -122,9 +128,11 @@ not in the gloss).
 
 <blockquote>
 (4) Hakha Lai ([Bickel_Nichols2013](#source-Bickel_Nichols2013))
+
 | a-nii -láay |
 |  ---  |
 | 3SG-laugh-FUT |
+
 
 ‘s/he will laugh’
 </blockquote>
@@ -147,18 +155,22 @@ purpose of the gloss.
 
 <blockquote>
 (5a) Russian
+
 | My | s | Marko | poexa-l-i | avtobus-om | v | Peredelkino. |
 |  --- | --- | --- | --- | --- | --- | ---  |
 | 1PL | COM | Marko | go-PST-PL | bus-INS | ALL | Peredelkino |
+
 
 ‘Marko and I went to Perdelkino by bus.’
 </blockquote>
 
 <blockquote>
 (5b) Russian
+
 | My | s | Marko | poexa-l-i | avtobus-om | v | Peredelkino. |
 |  --- | --- | --- | --- | --- | --- | ---  |
 | we | with | Marko | go-PST-PL | bus-by | to | Peredelkino |
+
 
 ‘Marko and I went to Perdelkino by bus.’
 </blockquote>
@@ -171,54 +183,66 @@ elements (words or abbreviations), these are separated by periods. E.g.
 
 <blockquote>
 (6) Turkish
+
 | çık-mak |
 |  ---  |
 | come.out-INF |
+
 
 ‘to come out’
 </blockquote>
 
 <blockquote>
 (7) Latin
+
 | insul-arum |
 |  ---  |
 | island-GEN.PL |
+
 
 ‘of the islands’
 </blockquote>
 
 <blockquote>
 (8) French
+
 | aux | chevaux |
 |  --- | ---  |
 | to.ART.PL | horse.PL |
+
 
 ‘to the horses’
 </blockquote>
 
 <blockquote>
 (9) German
+
 | unser-n | Väter-n |
 |  --- | ---  |
 | our-DAT.PL | father.PL-DAT.PL |
+
 
 ‘to our fathers’
 </blockquote>
 
 <blockquote>
 (10) Hittite ([Lehmann1982](#source-Lehmann1982): 211)
+
 | n=an | apedani | mehuni | essandu. |
 |  --- | --- | --- | ---  |
 | CONN=him | that.DAT.SG | time.DAT.SG | eat.they.shall |
+
 
 ‘They shall celebrate him on that date.’
 </blockquote>
 
 <blockquote>
 (11) Jaminjung ([SchultzeBerndt2000](#source-SchultzeBerndt2000): 92)
+
 | nanggayan | guny-bi-yarluga? |
 |  --- | ---  |
 | who | 2DU.A.3SG.P-FUT-poke |
+
 
 ‘Who do you two want to spear?’
 </blockquote>
@@ -238,9 +262,11 @@ may be used instead of the period.
 
 <blockquote>
 (12) Turkish
+
 | çık-mak |
 |  ---  |
 | come_out-INF |
+
 
 ‘to come out’
 </blockquote>
@@ -254,18 +280,22 @@ used. E.g.
 
 <blockquote>
 (13) Latin
+
 | insul-arum |
 |  ---  |
 | island-GEN;PL |
+
 
 ‘of the islands’
 </blockquote>
 
 <blockquote>
 (14) French
+
 | aux | chevaux |
 |  --- | ---  |
 | to;ART;PL | horse;PL |
+
 
 ‘to the horses’
 </blockquote>
@@ -279,9 +309,11 @@ and/or to keep the text intact), the colon may be used. E.g.
 
 <blockquote>
 (15) Hittite ([Lehmann1982](#source-Lehmann1982): 211)
+
 | n=an | apedani | mehuni | essandu. |
 |  --- | --- | --- | ---  |
 | CONN=him | that:DAT;SG | time:DAT;SG | eat:they:shall |
+
 
 ‘They shall celebrate him on that date.’
 </blockquote>
@@ -295,27 +327,33 @@ is used to separate the category label and the rest of the gloss.
 
 <blockquote>
 (16) German
+
 | unser-n | Väter-n |
 |  --- | ---  |
 | our-DAT.PL | father\PL-DAT.PL |
+
 
 ‘to our fathers’
 </blockquote>
 
 <blockquote>
 (17) Irish
+
 | bhris-is |
 |  ---  |
 | PST\break-2SG |
+
 
 ‘you broke’
 </blockquote>
 
 <blockquote>
 (18) Kinyarwanda
+
 | mú-kòrà |
 |  ---  |
 | SBJV\1PL-work |
+
 
 ‘that we work’
 </blockquote>
@@ -330,9 +368,11 @@ patient-like argument.
 
 <blockquote>
 (19) Jaminjung ([SchultzeBerndt2000](#source-SchultzeBerndt2000): 92)
+
 | nanggayan | guny-bi-yarluga? |
 |  --- | ---  |
 | who | 2DU>3SG-FUT-poke |
+
 
 ‘Who do you two want to spear?’
 </blockquote>
@@ -345,9 +385,11 @@ E.g.
 
 <blockquote>
 (20) Italian
+
 | and-iamo |
 |  ---  |
 | go-PRS.1PL |
+
 
 ‘we go’
 </blockquote>
@@ -362,18 +404,22 @@ in (21b) is used.
 
 <blockquote>
 (21a) Belhare
+
 | ne-e | a-khim-chi | n-yuNNa |
 |  --- | --- | ---  |
 | DEM-LOC | 1SG.POSS-house-PL | 3NSG-be.NPST |
+
 
 ‘Here are my houses.’
 </blockquote>
 
 <blockquote>
 (21b) Belhare
+
 | ne-e | a-khim-chi | n-yuNNa |
 |  --- | --- | ---  |
 | DEM-LOC | 1sPOSS-house-PL | 3ns-be.NPST |
+
 
 ‘Here are my houses.’
 </blockquote>
@@ -388,18 +434,22 @@ separated by a hyphen like an overt element (as in 22b).
 
 <blockquote>
 (22a) Latin
+
 | puer |
 |  ---  |
 | boy[NOM.SG] |
+
 
 ‘boy’
 </blockquote>
 
 <blockquote>
 (22b) Latin
+
 | puer-∅ |
 |  ---  |
 | boy-NOM.SG |
+
 
 ‘boy’
 </blockquote>
@@ -412,9 +462,11 @@ special boundary symbol, the round parenthesis, is used. E.g.
 
 <blockquote>
 (23) Hunzib ([vandenBerg1995](#source-vandenBerg1995): 46)
+
 | oz#-di-g | xõxe | m-uq'e-r |
 |  --- | --- | ---  |
 | boy-OBL-AD | tree(G4) | G4-bend-PRET |
+
 
 ‘Because of the boy the tree bent.’
 </blockquote>
@@ -430,9 +482,11 @@ may be treated in two different ways:
 
 <blockquote>
 (24) Lakhota
+
 | na-wíčha-wa-xʔu̧ |
 |  ---  |
 | hear-3PL.UND-1SG.ACT-hear |
+
 
 ‘I hear them’
 </blockquote>
@@ -441,9 +495,11 @@ may be treated in two different ways:
 
 <blockquote>
 (25) Lakhota
+
 | na-wíčha-wa-xʔu̧ |
 |  ---  |
 | hear-3PL.UND-1SG.ACT- STEM |
+
 
 ‘I hear them’
 </blockquote>
@@ -452,18 +508,22 @@ Circumfixes are "bipartite affixes" and can be treated in the same way, e.g.
 
 <blockquote>
 (26a) German
+
 | ge-seh-en |
 |  ---  |
 | PTCP-see-PTCP |
+
 
 ‘seen’
 </blockquote>
 
 <blockquote>
 (26b) German
+
 | ge-seh-en |
 |  ---  |
 | PTCP-see-CIRC |
+
 
 ‘seen’
 </blockquote>
@@ -476,18 +536,22 @@ the gloss.
 
 <blockquote>
 (27) Tagalog
+
 | b<um>ili |
 |  ---  |
 | <ACTFOC>buy |
+
 
 ‘buy’
 </blockquote>
 
 <blockquote>
 (28) Latin
+
 | reli<n>qu-ere |
 |  ---  |
 | leave<PRS>-INF |
+
 
 ‘to leave’
 </blockquote>
@@ -505,27 +569,33 @@ ordinary hyphen) connecting the copied element to the stem.
 
 <blockquote>
 (29) Hebrew
+
 | yerak~rak-im |
 |  ---  |
 | green~ATT-M.PL |
+
 
 ‘greenish ones’
 </blockquote>
 
 <blockquote>
 (30) Tagalog
+
 | bi~bili |
 |  ---  |
 | IPFV~buy |
+
 
 ‘is buying’
 </blockquote>
 
 <blockquote>
 (31) Tagalog
+
 | b<um>i~bili |
 |  ---  |
 | <ACTFOC>IPFV~buy |
+
 
 ‘is buying’
 </blockquote>
