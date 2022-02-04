@@ -1,0 +1,36 @@
+ID,Language_ID,Primary_Text,Analyzed_Word,Gloss,Translated_Text,Meta_Language_ID,Source,Comment
+1,indo1316,Mereka di Jakarta sekarang.,Mereka	di	Jakarta	sekarang.,They	in	Jakarta	now,They are in Jakarta now.,stan1293,Sneddon1996[237],
+2,lezg1247,Gila aburun ferma hamišaluǧ güǧüna amuq’dač.,Gila	abur-u-n	ferma	hamišaluǧ	güǧüna	amuq’-da-č.,now they-OBL-GEN farm forever behind stay-FUT-NEG,Now their farm will not stay behind forever.,stan1293,Haspelmath1993[207],
+3,kala1399,palasilu niuirturlu,palasi=lu	niuirtur=lu,priest=and	shopkeeper=and,both the priest and the shopkeeper,stan1293,Fortescue1984[127],
+4,haka1240,anii láay,a-nii -láay,3SG-laugh-FUT,s/he will laugh,stan1293,Bickel_Nichols2013,
+5a,russ1263,My s Marko poexali avtobusom v Peredelkino.,My	s	Marko	poexa-l-i	avtobus-om	v	Peredelkino.,1PL	COM	Marko	go-PST-PL	bus-INS	ALL	Peredelkino,Marko and I went to Perdelkino by bus.,stan1293,,
+5b,russ1263,My s Marko poexali avtobusom v Peredelkino.,My	s	Marko	poexa-l-i	avtobus-om	v	Peredelkino.,we with Marko go-PST-PL bus-by to Peredelkino,Marko and I went to Perdelkino by bus.,stan1293,,
+6,nucl1301,çıkmak,çık-mak,come.out-INF,to come out,stan1293,,
+7,lati1261,insularum,insul-arum,island-GEN.PL,of the islands,stan1293,,
+8,stan1290,aux chevaux,aux chevaux,to.ART.PL horse.PL,to the horses,stan1293,,
+9,stan1295,unsern Vätern,unser-n Väter-n,our-DAT.PL father.PL-DAT.PL,to our fathers,stan1293,,
+10,hitt1242,nan apedani mehuni essandu.,n=an apedani mehuni essandu.,CONN=him that.DAT.SG time.DAT.SG eat.they.shall,They shall celebrate him on that date.,stan1293,Lehmann1982[211],CONN = connective,
+11,djam1255,nanggayan gunybiyarluga?,nanggayan guny-bi-yarluga?,who 2DU.A.3SG.P-FUT-poke,Who do you two want to spear?,stan1293,SchultzeBerndt2000[92],
+12,nucl1301,çıkmak,çık-mak,come_out-INF,to come out,stan1293,,cf. 6
+13,lati1261,insularum,insul-arum,island-GEN;PL,of the islands,stan1293,,cf. 7
+14,stan1290,aux chevaux,aux chevaux,to;ART;PL horse;PL,to the horses,stan1293,,
+15,hitt1242,nan apedani mehuni essandu.,n=an apedani mehuni essandu.,CONN=him that:DAT;SG time:DAT;SG eat:they:shall,They shall celebrate him on that date.,stan1293,Lehmann1982[211],cf. 10
+16,stan1295,unsern Vätern,unser-n Väter-n,our-DAT.PL father\PL-DAT.PL,to our fathers,stan1293,,cf. singular Vater; cf. 9
+17,iris1253,bhrisis,bhris-is,PST\break-2SG,you broke,stan1293,,cf. nonpast bris-
+18,kiny1244,múkòrà,mú-kòrà,SBJV\1PL-work,that we work,stan1293,,cf. indicative mù-kòrà
+19,djam1255,nanggayan gunybiyarluga?,nanggayan guny-bi-yarluga?,who 2DU>3SG-FUT-poke,Who do you two want to spear?,stan1293,SchultzeBerndt2000[92],cf. 11
+20,ital1282,andiamo,and-iamo,go-PRS.1PL,we go,stan1293,,not: go-PRS.1.PL
+21a,belh1239,nee akhimchi nyuNNa,ne-e a-khim-chi n-yuNNa,DEM-LOC 1SG.POSS-house-PL 3NSG-be.NPST,Here are my houses.,stan1293,,
+21b,belh1239,nee akhimchi nyuNNa,ne-e a-khim-chi n-yuNNa,DEM-LOC 1sPOSS-house-PL 3ns-be.NPST,Here are my houses.,stan1293,,
+22a,lati1261,puer,puer,boy[NOM.SG],boy,stan1293,,
+22b,lati1261,puer,puer-∅,boy-NOM.SG,boy,stan1293,,
+23,hunz1247,oz#dig xõxe muq'er,oz#-di-g xõxe m-uq'e-r,boy-OBL-AD tree(G4) G4-bend-PRET,Because of the boy the tree bent.,stan1293,vandenBerg1995[46],"G4 = 4th gender, AD = adessive, PRET = preterite"
+24,lako1247,nawíčhawaxʔu̧,na-wíčha-wa-xʔu̧,hear-3PL.UND-1SG.ACT-hear,I hear them,stan1293,,"UND = undergoer, ACT = actor"
+25,lako1247,nawíčhawaxʔu̧,na-wíčha-wa-xʔu̧,hear-3PL.UND-1SG.ACT- STEM,I hear them,stan1293,,
+26a,stan1295,gesehen,ge-seh-en,PTCP-see-PTCP,seen,stan1293,,
+26b,stan1295,gesehen,ge-seh-en,PTCP-see-CIRC,seen,stan1293,,
+27,taga1270,bumili,b<um>ili,<ACTFOC>buy,buy,stan1293,,stem: bili
+28,lati1261,relinquere,reli<n>qu-ere,leave<PRS>-INF,to leave,stan1293,,stem: reliqu-
+29,hebr1245,yerakrakim,yerak~rak-im,green~ATT-M.PL,greenish ones,stan1293,,ATT = attenuative
+30,taga1270,bibili,bi~bili,IPFV~buy,is buying,stan1293,,
+31,taga1270,bumibili,b<um>i~bili,<ACTFOC>IPFV~buy,is buying,stan1293,,ACTFOC = Actor focus
