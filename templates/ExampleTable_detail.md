@@ -1,6 +1,6 @@
 <blockquote>
 ({{ ctx.id }}) {{ ctx.related('languageReference').name }}{% if ctx.references %}
- ( [{{ ctx.references[0].source.id }}](#source-{{ ctx.references[0].source.id }}){% if ctx.references[0].description %}
+ ( [{{ ctx.references[0].source.id }}](#user-content-source-{{ ctx.references[0].source.id }}){% if ctx.references[0].description %}
 : {{ ctx.references[0].description }}{% endif %}){% endif %}
 
 

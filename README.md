@@ -69,7 +69,7 @@ a different style or a different analysis.
 Interlinear glosses are left-aligned vertically, word by word, with the example. E.g.
 
 <blockquote>
-(1) Indonesian ( [Sneddon1996](#source-Sneddon1996): 237)
+(1) Indonesian ( [Sneddon1996](#user-content-source-Sneddon1996): 237)
 
 | Mereka | di | Jakarta | sekarang. |
 |  --- | --- | --- | ---  |
@@ -87,7 +87,7 @@ gloss. There must be exactly the same number of hyphens in the example and in th
 gloss. E.g.
 
 <blockquote>
-(2) Lezgian ( [Haspelmath1993](#source-Haspelmath1993): 207)
+(2) Lezgian ( [Haspelmath1993](#user-content-source-Haspelmath1993): 207)
 
 | Gila | abur-u-n | ferma | hamišaluǧ | güǧüna | amuq’-da-č. |
 |  --- | --- | --- | --- | --- | ---  |
@@ -104,7 +104,7 @@ Clitic boundaries are marked by an equals sign, both in the object language and
 in the gloss.
 
 <blockquote>
-(3) West Greenlandic ( [Fortescue1984](#source-Fortescue1984): 127)
+(3) West Greenlandic ( [Fortescue1984](#user-content-source-Fortescue1984): 127)
 
 | palasi=lu | niuirtur=lu |
 |  --- | ---  |
@@ -127,7 +127,7 @@ words, a hyphen and a single space may be used together in the object language (
 not in the gloss).
 
 <blockquote>
-(4) Hakha Lai ( [Bickel_Nichols2013](#source-Bickel_Nichols2013))
+(4) Hakha Lai ( [Bickel_Nichols2013](#user-content-source-Bickel_Nichols2013))
 
 | a-nii -láay |
 |  ---  |
@@ -226,7 +226,7 @@ elements (words or abbreviations), these are separated by periods. E.g.
 </blockquote>
 
 <blockquote>
-(10) Hittite ( [Lehmann1982](#source-Lehmann1982): 211)
+(10) Hittite ( [Lehmann1982](#user-content-source-Lehmann1982): 211)
 
 | n=an | apedani | mehuni | essandu. |
 |  --- | --- | --- | ---  |
@@ -237,7 +237,7 @@ elements (words or abbreviations), these are separated by periods. E.g.
 </blockquote>
 
 <blockquote>
-(11) Jaminjung ( [SchultzeBerndt2000](#source-SchultzeBerndt2000): 92)
+(11) Jaminjung ( [SchultzeBerndt2000](#user-content-source-SchultzeBerndt2000): 92)
 
 | nanggayan | guny-bi-yarluga? |
 |  --- | ---  |
@@ -308,7 +308,7 @@ author does not want to show the formal segmentation (because it is irrelevant
 and/or to keep the text intact), the colon may be used. E.g.
 
 <blockquote>
-(15) Hittite ( [Lehmann1982](#source-Lehmann1982): 211)
+(15) Hittite ( [Lehmann1982](#user-content-source-Lehmann1982): 211)
 
 | n=an | apedani | mehuni | essandu. |
 |  --- | --- | --- | ---  |
@@ -367,7 +367,7 @@ the gloss to indicate that the first is the agent-like argument and the second i
 patient-like argument.
 
 <blockquote>
-(19) Jaminjung ( [SchultzeBerndt2000](#source-SchultzeBerndt2000): 92)
+(19) Jaminjung ( [SchultzeBerndt2000](#user-content-source-SchultzeBerndt2000): 92)
 
 | nanggayan | guny-bi-yarluga? |
 |  --- | ---  |
@@ -461,7 +461,7 @@ Inherent, non-overt categories such as gender may be indicated in the gloss, but
 special boundary symbol, the round parenthesis, is used. E.g.
 
 <blockquote>
-(23) Hunzib ( [vandenBerg1995](#source-vandenBerg1995): 46)
+(23) Hunzib ( [vandenBerg1995](#user-content-source-vandenBerg1995): 46)
 
 | oz#-di-g | xõxe | m-uq'e-r |
 |  --- | --- | ---  |
