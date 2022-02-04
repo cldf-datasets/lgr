@@ -5,32 +5,19 @@ import re
 import urllib.parse
 
 from pycldf import orm
-from jinja2 import Template
+import jinja2
 
 from cldfbench_lgr import Dataset
 
 MD_LINK_PATTERN = re.compile(r'\[(?P<label>[^]]+)]\((?P<url>[^)]+)\)')
 
-def render_example(e):
-    print(e.cldf)
-    template = Template("""
-<blockquote>
-({{ example.id }}) {{ example.related('languageReference').name }}{% if example.references %}
- ([{{ example.references[0].source.id }}](#source-{{ example.references[0].source.id }}){% if example.references[0].description %}
-: {{ example.references[0].description }}{% endif %}){% endif %}
 
-
-{% for word in example.cldf.analyzedWord %}{% if loop.first != True %} | {% endif%}{{ word }}{% endfor %}
-
-{% for word in example.cldf.analyzedWord %}{% if not loop.first %}|{% endif%} --- {% endfor %}
-
-{% for word in example.cldf.gloss %}{% if not loop.first %} | {% endif%}{{ word }}{% endfor %}
-
-
-‘{{ example.cldf.translatedText }}’
-</blockquote>
-""", trim_blocks=True)
-    return template.render(example=e)
+def render_template(d, fname_or_component, obj, index=False, fmt='md'):
+    templateLoader = jinja2.FileSystemLoader(searchpath=str(d))
+    templateEnv = jinja2.Environment(loader=templateLoader, trim_blocks=True)
+    template = templateEnv.get_template('{}_{}.{}'.format(
+        fname_or_component, 'index' if index else 'detail', fmt))
+    return template.render(ctx=obj)
 
 
 def run(args):
@@ -41,7 +28,10 @@ def run(args):
     for table in cldf.tables:
         fname = str(table.url)
         if (fname, 'id') in cldf:
-            table_map[fname] = cldf.get_tabletype(table)
+            try:
+                table_map[fname] = cldf.get_tabletype(table)
+            except ValueError:
+                table_map[fname] = None
             objs = cldf.objects(table_map[fname]) if table_map[fname] else cldf.iter_rows(fname, 'id')
             datadict[fname] = {r.id if isinstance(r, orm.Object) else r['id']: r for r in objs}
     datadict[cldf.bibname] = {src.id: src for src in cldf.sources}
@@ -61,8 +51,10 @@ def iter_md(ds, datadict, table_map):
         if url.fragment.startswith('cldf:') and fname in datadict:
             type_ = table_map[fname]
             _, _, oid = url.fragment.partition(':')
-            if type_ == 'ExampleTable':
-                yield render_example(datadict[fname][oid])
-            elif type_ == 'Source':
-                yield datadict[fname][oid].text()
+            if oid == '__all__':  # look up the "index" template
+                yield render_template(
+                    ds.dir / 'templates', type_ or fname, datadict[fname].values(), index=True)
+            else:  # look up "detail" template
+                yield render_template(
+                    ds.dir / 'templates', type_ or fname, datadict[fname][oid])
     yield md[current:]

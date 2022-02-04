@@ -21,6 +21,7 @@ such to the community of linguists. The Rules are intended to reflect common
 usage, and only very few (mostly optional) innovations are proposed.
 We intend to update the Leipzig Glossing Rules occasionally, so feedback is highly
 welcome.
+
 Important references:
 
 - [Lehmann 1982](cldf/sources.bib#cldf:Lehmann1982)
@@ -75,19 +76,16 @@ Interlinear glosses are left-aligned vertically, word by word, with the example.
 Segmentable morphemes are separated by hyphens, both in the example and in the
 gloss. There must be exactly the same number of hyphens in the example and in the
 gloss. E.g.
-(2) Lezgian (Haspelmath 1993:207)
-Gila abur-u-n ferma hamišaluǧ güǧüna amuq’-da-č.
-now they-OBL-GEN farm forever behind stay-FUT-NEG
-‘Now their farm will not stay behind forever.’
+
+[example 2](cldf/examples.csv#cldf:2)
+
 Since hyphens and vertical alignment make the text look unusual, authors may
 want to add another line at the beginning, containing the unmodified text, or resort
 to the option described in Rule 4 (and especially 4C).
 Clitic boundaries are marked by an equals sign, both in the object language and
 in the gloss.
-(3) West Greenlandic (Fortescue 1984:127)
-palasi=lu niuirtur=lu
-priest=and shopkeeper=and
-'both the priest and the shopkeeper'
+
+[example 3](cldf/examples.csv#cldf:3)
 
 Epenthetic segments occurring at a morpheme boundary should be assigned to
 either the preceding or the following morpheme. Which morpheme is to be chosen
@@ -100,10 +98,8 @@ rule will be provided for this.
 If morphologically bound elements constitute distinct prosodic or phonological
 words, a hyphen and a single space may be used together in the object language (but
 not in the gloss).
-(4) Hakha Lai
-a-nii -láay
-3SG-laugh-FUT
-'s/he will laugh'
+
+[example 4](cldf/examples.csv#cldf:4)
 
 
 ### Rule 3: Grammatical category labels
@@ -118,44 +114,31 @@ abbreviation is more convenient, e.g. CPL (instead of COMPL) for "completive", P
 (instead of PRF) for "perfect", etc. If a category is very rare, it may be simplest not to
 abbreviate its label at all.
 In many cases, either a category label or a word from the metalanguage is
-acceptable. Thus, both of the two glosses of (5) may be chosen, depending on the
+acceptable. Thus, both of the glosses (5a or 5b) may be chosen, depending on the
 purpose of the gloss.
-(5) Russian
-My s Marko poexa-l-i avtobus-om v Peredelkino.
-1PL COM Marko go-PST-PL bus-INS ALL Peredelkino
-we with Marko go-PST-PL bus-by to Peredelkino
-'Marko and I went to Perdelkino by bus.'
+
+[example 5a](cldf/examples.csv#cldf:5a)
+
+[example 5b](cldf/examples.csv#cldf:5b)
 
 
 ### Rule 4: One-to-many correspondences
 
 When a single object-language element is rendered by several metalanguage
 elements (words or abbreviations), these are separated by periods. E.g.
-(6) Turkish
-çık-mak
-come.out-INF
-'to come out'
 
-(7) Latin
-insul-arum
-island-GEN.PL
-'of the islands'
-(8) French
-aux chevaux
-to.ART.PL horse.PL
-'to the horses'
-(9) German
-unser-n Väter-n
-our-DAT.PL father.PL-DAT.PL
-'to our fathers'
-(10) Hittite (Lehmann 1982:211)
-n=an apedani mehuni essandu.
-CONN=him that.DAT.SG time.DAT.SG eat.they.shall
-'They shall celebrate him on that date.' (CONN = connective)
-(11) Jaminjung (Schultze-Berndt 2000:92)
-nanggayan guny-bi-yarluga?
-who 2DU.A.3SG.P-FUT-poke
-'Who do you two want to spear?'
+[example 6](cldf/examples.csv#cldf:6)
+
+[example 7](cldf/examples.csv#cldf:7)
+
+[example 8](cldf/examples.csv#cldf:8)
+
+[example 9](cldf/examples.csv#cldf:9)
+
+[example 10](cldf/examples.csv#cldf:10)
+
+[example 11](cldf/examples.csv#cldf:11)
+
 The ordering of the two metalanguage elements may be determined by various
 principles that are not easy to generalize over, so no rule will be provided for this.
 There are various reasons for a one-to-many correspondence between object-
@@ -168,10 +151,8 @@ the period. If one wants to distinguish between them, one may follow Rules 4A-E.
 If an object-language element is neither formally nor semantically segmentable and
 only the metalanguage happens to lack a single-word equivalent, the underscore
 may be used instead of the period.
-(12) Turkish (cf. 6)
-çık-mak
-come_out-INF
-'to come out'
+
+[example 12](cldf/examples.csv#cldf:12)
 
 
 ### Rule 4B. (Optional)
@@ -179,15 +160,10 @@ come_out-INF
 If an object-language element is formally unsegmentable but has two or more
 clearly distinguishable meanings or grammatical properties, the semi-colon may be
 used. E.g.
-(13) Latin (cf. 7)
-insul-arum
-island-GEN;PL
-'of the islands'
 
-(14) French
-aux chevaux
-to;ART;PL horse;PL
-'to the horses'
+[example 13](cldf/examples.csv#cldf:13)
+
+[example 14](cldf/examples.csv#cldf:14)
 
 
 ### Rule 4C. (Optional)
@@ -195,10 +171,8 @@ to;ART;PL horse;PL
 If an object-language element is formally and semantically segmentable, but the
 author does not want to show the formal segmentation (because it is irrelevant
 and/or to keep the text intact), the colon may be used. E.g.
-(15) Hittite (Lehmann 1982:211) (cf. 10)
-n=an apedani mehuni essandu.
-CONN=him that:DAT;SG time:DAT;SG eat:they:shall
-'They shall celebrate him on that date.'
+
+[example 15](cldf/examples.csv#cldf:15)
 
 
 ### Rule 4D. (Optional)
@@ -206,18 +180,12 @@ CONN=him that:DAT;SG time:DAT;SG eat:they:shall
 If a grammatical property in the object-language is signaled by a
 morphophonological change (ablaut, mutation, tone alternation, etc.), the backslash
 is used to separate the category label and the rest of the gloss.
-(16) German (cf. 9)
-unser-n Väter-n
-our-DAT.PL father\PL-DAT.PL
-'to our fathers' (cf. singular Vater)
-(17) Irish
-bhris-is
-PST\break-2SG
-'you broke' (cf. nonpast bris-)
-(18) Kinyarwanda
-mú-kòrà
-SBJV\1PL-work
-'that we work' (cf. indicative mù-kòrà)
+
+[example 16](cldf/examples.csv#cldf:16)
+
+[example 17](cldf/examples.csv#cldf:17)
+
+[example 18](cldf/examples.csv#cldf:18)
 
 
 ### Rule 4E. (Optional)
@@ -226,56 +194,48 @@ If a language has person-number affixes that express the agent-like and the pati
 like argument of a transitive verb simultaneously, the symbol ">" may be used in
 the gloss to indicate that the first is the agent-like argument and the second is the
 patient-like argument.
-(19) Jaminjung (Schultze-Berndt 2000:92) (cf. 11)
-nanggayan guny-bi-yarluga?
-who 2DU>3SG-FUT-poke
-'Who do you two want to spear?'
+
+[example 19](cldf/examples.csv#cldf:19)
 
 
 ### Rule 5: Person and number labels
 
 Person and number are not separated by a period when they cooccur in this order.
 E.g.
-(20) Italian
-and-iamo
-go-PRS.1PL (not: go-PRS.1.PL)
-'we go'
+
+[example 20](cldf/examples.csv#cldf:20)
 
 
 ### Rule 5A. (Optional)
 
 Number and gender markers are very frequent in some languages, especially when
 combined with person. Several authors therefore use non-capitalized shortened
-abbreviations without a period. If this option is adopted, then the second gloss is
-used in (21).
-(21) Belhare
-ne-e a-khim-chi n-yuNNa
-DEM-LOC 1SG.POSS-house-PL 3NSG-be.NPST
-DEM-LOC 1sPOSS-house-PL 3ns-be.NPST
-'Here are my houses.'
+abbreviations without a period. If this option is adopted, then the gloss
+in (21b) is used.
+
+[example 21a](cldf/examples.csv#cldf:21a)
+
+[example 21b](cldf/examples.csv#cldf:21b)
 
 
 ### Rule 6: Non-overt elements
 
 If the morpheme-by-morpheme gloss contains an element that does not correspond
-to an overt element in the example, it can be enclosed in square brackets. An
-obvious alternative is to include an overt "Ø" in the object-language text, which is
-separated by a hyphen like an overt element.
-(22) Latin
-puer or: puer-Ø
-boy[NOM.SG] boy-NOM.SG
-‘boy’ ‘boy’
+to an overt element in the example, it can be enclosed in square brackets (as in 22a). An
+obvious alternative is to include an overt "∅" in the object-language text, which is
+separated by a hyphen like an overt element (as in 22b).
+
+[example 22a](cldf/examples.csv#cldf:22a)
+
+[example 22b](cldf/examples.csv#cldf:22b)
 
 
 ### Rule 7: Inherent categories
 
 Inherent, non-overt categories such as gender may be indicated in the gloss, but a
 special boundary symbol, the round parenthesis, is used. E.g.
-(23) Hunzib (van den Berg 1995:46)
-oz#-di-g xõxe m-uq'e-r
-boy-OBL-AD tree(G4) G4-bend-PRET
-'Because of the boy the tree bent.'
-(G4 = 4th gender, AD = adessive, PRET = preterite)
+
+[example 23](cldf/examples.csv#cldf:23)
 
 
 ### Rule 8: Bipartite elements
@@ -283,35 +243,31 @@ boy-OBL-AD tree(G4) G4-bend-PRET
 Grammatical or lexical elements that consist of two parts which are treated as
 distinct morphological entities (e.g. bipartite stems such as Lakhota na-xʔu̧ 'hear')
 may be treated in two different ways:
+
 (i) The gloss may simply be repeated:
-(24) Lakhota
-na-wíčha-wa-xʔu̧
-hear-3PL.UND-1SG.ACT-hear
-'I hear them' (UND = undergoer, ACT = actor)
+
+[example 24](cldf/examples.csv#cldf:24)
+
 (ii) One of the two parts may be represented by a special label such as STEM:
-(25) Lakhota
-na-wíčha-wa-xʔu̧
-hear-3PL.UND-1SG.ACT- STEM
-'I hear them'
+
+[example 25](cldf/examples.csv#cldf:25)
+
 Circumfixes are "bipartite affixes" and can be treated in the same way, e.g.
-(26) German
-ge-seh-en or: ge-seh-en
-PTCP-see-PTCP PTCP-see-CIRC
-'seen' 'seen'
+
+[example 26a](cldf/examples.csv#cldf:26a)
+
+[example 26b](cldf/examples.csv#cldf:26b)
 
 
 ### Rule 9: Infixes
 
 Infixes are enclosed by angle brackets, and so is the object-language counterpart in
 the gloss.
-(27) Tagalog
-b<um>ili (stem: bili)
-<ACTFOC>buy
-'buy'
-(28) Latin
-reli<n>qu-ere (stem: reliqu-)
-leave<PRS>-INF
-'to leave'
+
+[example 27](cldf/examples.csv#cldf:27)
+
+[example 28](cldf/examples.csv#cldf:28)
+
 Infixes are generally easily identifiable as left-peripheral (as in 27) or as right-
 peripheral (as in 28), and this determines the position of the gloss corresponding to
 the infix with respect to the gloss of the stem. If the infix is not clearly peripheral,
@@ -322,108 +278,17 @@ some other basis for linearizing the gloss has to be found.
 
 Reduplication is treated similarly to affixation, but with a tilde (instead of an
 ordinary hyphen) connecting the copied element to the stem.
-(29) Hebrew
-yerak~rak-im
-green~ATT-M.PL
-'greenish ones' (ATT = attenuative)
-(30) Tagalog
-bi~bili
-IPFV~buy
-'is buying'
-(31) Tagalog
-b<um>i~bili
-<ACTFOC>IPFV~buy
-'is buying' (ACTFOC = Actor focus)
+
+[example 29](cldf/examples.csv#cldf:29)
+
+[example 30](cldf/examples.csv#cldf:30)
+
+[example 31](cldf/examples.csv#cldf:31)
 
 
 ## Appendix: List of Standard Abbreviations
 
-1 first person
-2 second person
-3 third person
-A agent-like argument of canonical transitive verb
-ABL ablative
-ABS absolutive
-ACC accusative
-ADJ adjective
-ADV adverb(ial)
-AGR agreement
-ALL allative
-ANTIP antipassive
-APPL applicative
-ART article
-AUX auxiliary
-BEN benefactive
-CAUS causative
-CLF classifier
-COM comitative
-COMP complementizer
-COMPL completive
-COND conditional
-COP copula
-CVB converb
-DAT dative
-DECL declarative
-DEF definite
-9
-DEM demonstrative
-DET determiner
-DIST distal
-DISTR distributive
-DU dual
-DUR durative
-ERG ergative
-EXCL exclusive
-F feminine
-FOC focus
-FUT future
-GEN genitive
-IMP imperative
-INCL inclusive
-IND indicative
-INDF indefinite
-INF infinitive
-INS instrumental
-INTR intransitive
-IPFV imperfective
-IRR irrealis
-LOC locative
-M masculine
-N neuter
-N- non- (e.g. NSG nonsingular, NPST nonpast)
-NEG negation, negative
-NMLZ nominalizer/nominalization
-NOM nominative
-OBJ object
-OBL oblique
-P patient-like argument of canonical transitive verb
-PASS passive
-PFV perfective
-PL plural
-POSS possessive
-PRED predicative
-PRF perfect
-PRS present
-PROG progressive
-PROH prohibitive
-PROX proximal/proximate
-PST past
-PTCP participle
-PURP purposive
-Q question particle/marker
-QUOT quotative
-RECP reciprocal
-REFL reflexive
-10
-REL relative
-RES resultative
-S single argument of canonical intransitive verb
-SBJ subject
-SBJV subjunctive
-SG singular
-TOP topic
-TR transitive
-VOC vocative
+[List of abbreviations](cldf/abbreviations.csv#cldf:__all__)
 
 
 ## References
