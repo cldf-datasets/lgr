@@ -4,9 +4,9 @@
 : {{ ctx.references[0].description }}{% endif %}){% endif %}
 
 
-| {% for word in ctx.cldf.analyzedWord %}{% if loop.first != True %} | {% endif%}{{ word }}{% endfor %} |
+| {% for word in ctx.cldf.analyzedWord %}{% if loop.first != True %} | {% endif%}{{ word.replace("<", "\<") }}{% endfor %} |
 | {% for word in ctx.cldf.analyzedWord %}{% if not loop.first %}|{% endif%} --- {% endfor %} |
-| {% for word in ctx.cldf.gloss %}{% if not loop.first %} | {% endif%}{{ word }}{% endfor %} |
+| {% for word in ctx.cldf.gloss %}{% if not loop.first %} | {% endif%}{{ word.replace("<", "\<") }}{% endfor %} |
 
 
 ‘{{ ctx.cldf.translatedText }}’

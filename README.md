@@ -537,9 +537,9 @@ the gloss.
 <blockquote>
 (27) Tagalog
 
-| b<um>ili |
+| b\<um>ili |
 |  ---  |
-| <ACTFOC>buy |
+| \<ACTFOC>buy |
 
 
 ‘buy’
@@ -548,9 +548,9 @@ the gloss.
 <blockquote>
 (28) Latin
 
-| reli<n>qu-ere |
+| reli\<n>qu-ere |
 |  ---  |
-| leave<PRS>-INF |
+| leave\<PRS>-INF |
 
 
 ‘to leave’
@@ -592,9 +592,9 @@ ordinary hyphen) connecting the copied element to the stem.
 <blockquote>
 (31) Tagalog
 
-| b<um>i~bili |
+| b\<um>i~bili |
 |  ---  |
-| <ACTFOC>IPFV~buy |
+| \<ACTFOC>IPFV~buy |
 
 
 ‘is buying’
