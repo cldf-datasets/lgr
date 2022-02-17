@@ -24,8 +24,8 @@ welcome.
 
 Important references:
 
-- <a id="source-Lehmann1982"> </a>Lehmann, Christian. 1982. Directions For Interlinear Morphemic Translations. Folia Linguistica 16. 199-224. Berlin, New York: Walter de Gruyter.
-- <a id="source-Croft2003"> </a>Croft, William. 2003. Typology and Universals. Second Edition. Cambridge: Cambridge University Press. xix-xxvpp.
+- Lehmann, Christian. 1982. Directions For Interlinear Morphemic Translations. Folia Linguistica 16. 199-224. Berlin, New York: Walter de Gruyter.
+- Croft, William. 2003. Typology and Universals. Second Edition. Cambridge: Cambridge University Press. xix-xxvpp.
 
 
 ## The rules
@@ -68,16 +68,13 @@ a different style or a different analysis.
 
 Interlinear glosses are left-aligned vertically, word by word, with the example. E.g.
 
-<blockquote>
-(1) Indonesian ( [Sneddon1996](#user-content-source-Sneddon1996): 237)
 
-| Mereka | di | Jakarta | sekarang. |
-|  --- | --- | --- | ---  |
-| They | in | Jakarta | now |
+> (1) Indonesian (Sneddon 1996: 237)
+<pre>
+Mereka  di  Jakarta  sekarang.  
+They    in  Jakarta  now  
+‘They are in Jakarta now.’</pre>
 
-
-‘They are in Jakarta now.’
-</blockquote>
 
 
 ### Rule 2: Morpheme-by-morpheme correspondence
@@ -86,16 +83,13 @@ Segmentable morphemes are separated by hyphens, both in the example and in the
 gloss. There must be exactly the same number of hyphens in the example and in the
 gloss. E.g.
 
-<blockquote>
-(2) Lezgian ( [Haspelmath1993](#user-content-source-Haspelmath1993): 207)
 
-| Gila | abur-u-n | ferma | hamišaluǧ | güǧüna | amuq’-da-č. |
-|  --- | --- | --- | --- | --- | ---  |
-| now | they-OBL-GEN | farm | forever | behind | stay-FUT-NEG |
+> (2) Lezgian (Haspelmath 1993: 207)
+<pre>
+Gila  abur-u-n      ferma  hamišaluǧ  güǧüna  amuq’-da-č.  
+now   they-OBL-GEN  farm   forever    behind  stay-FUT-NEG  
+‘Now their farm will not stay behind forever.’</pre>
 
-
-‘Now their farm will not stay behind forever.’
-</blockquote>
 
 Since hyphens and vertical alignment make the text look unusual, authors may
 want to add another line at the beginning, containing the unmodified text, or resort
@@ -103,16 +97,13 @@ to the option described in Rule 4 (and especially 4C).
 Clitic boundaries are marked by an equals sign, both in the object language and
 in the gloss.
 
-<blockquote>
-(3) West Greenlandic ( [Fortescue1984](#user-content-source-Fortescue1984): 127)
 
-| palasi=lu | niuirtur=lu |
-|  --- | ---  |
-| priest=and | shopkeeper=and |
+> (3) West Greenlandic (Fortescue 1984: 127)
+<pre>
+palasi=lu   niuirtur=lu  
+priest=and  shopkeeper=and  
+‘both the priest and the shopkeeper’</pre>
 
-
-‘both the priest and the shopkeeper’
-</blockquote>
 
 Epenthetic segments occurring at a morpheme boundary should be assigned to
 either the preceding or the following morpheme. Which morpheme is to be chosen
@@ -126,16 +117,13 @@ If morphologically bound elements constitute distinct prosodic or phonological
 words, a hyphen and a single space may be used together in the object language (but
 not in the gloss).
 
-<blockquote>
-(4) Hakha Lai ( [Bickel_Nichols2013](#user-content-source-Bickel_Nichols2013))
 
-| a-nii -láay |
-|  ---  |
-| 3SG-laugh-FUT |
+> (4) Hakha Lai (Bickel and Nichols 2013)
+<pre>
+a-nii -láay  
+3SG-laugh-FUT  
+‘s/he will laugh’</pre>
 
-
-‘s/he will laugh’
-</blockquote>
 
 
 ### Rule 3: Grammatical category labels
@@ -153,27 +141,21 @@ In many cases, either a category label or a word from the metalanguage is
 acceptable. Thus, both of the glosses (5a or 5b) may be chosen, depending on the
 purpose of the gloss.
 
-<blockquote>
-(5a) Russian
 
-| My | s | Marko | poexa-l-i | avtobus-om | v | Peredelkino. |
-|  --- | --- | --- | --- | --- | --- | ---  |
-| 1PL | COM | Marko | go-PST-PL | bus-INS | ALL | Peredelkino |
-
-
-‘Marko and I went to Perdelkino by bus.’
-</blockquote>
-
-<blockquote>
-(5b) Russian
-
-| My | s | Marko | poexa-l-i | avtobus-om | v | Peredelkino. |
-|  --- | --- | --- | --- | --- | --- | ---  |
-| we | with | Marko | go-PST-PL | bus-by | to | Peredelkino |
+> (5a) Russian
+<pre>
+My   s    Marko  poexa-l-i  avtobus-om  v    Peredelkino.  
+1PL  COM  Marko  go-PST-PL  bus-INS     ALL  Peredelkino  
+‘Marko and I went to Perdelkino by bus.’</pre>
 
 
-‘Marko and I went to Perdelkino by bus.’
-</blockquote>
+
+> (5b) Russian
+<pre>
+My  s     Marko  poexa-l-i  avtobus-om  v   Peredelkino.  
+we  with  Marko  go-PST-PL  bus-by      to  Peredelkino  
+‘Marko and I went to Perdelkino by bus.’</pre>
+
 
 
 ### Rule 4: One-to-many correspondences
@@ -181,71 +163,53 @@ purpose of the gloss.
 When a single object-language element is rendered by several metalanguage
 elements (words or abbreviations), these are separated by periods. E.g.
 
-<blockquote>
-(6) Turkish
 
-| çık-mak |
-|  ---  |
-| come.out-INF |
-
-
-‘to come out’
-</blockquote>
-
-<blockquote>
-(7) Latin
-
-| insul-arum |
-|  ---  |
-| island-GEN.PL |
+> (6) Turkish
+<pre>
+çık-mak  
+come.out-INF  
+‘to come out’</pre>
 
 
-‘of the islands’
-</blockquote>
 
-<blockquote>
-(8) French
-
-| aux | chevaux |
-|  --- | ---  |
-| to.ART.PL | horse.PL |
+> (7) Latin
+<pre>
+insul-arum  
+island-GEN.PL  
+‘of the islands’</pre>
 
 
-‘to the horses’
-</blockquote>
 
-<blockquote>
-(9) German
-
-| unser-n | Väter-n |
-|  --- | ---  |
-| our-DAT.PL | father.PL-DAT.PL |
+> (8) French
+<pre>
+aux        chevaux  
+to.ART.PL  horse.PL  
+‘to the horses’</pre>
 
 
-‘to our fathers’
-</blockquote>
 
-<blockquote>
-(10) Hittite ( [Lehmann1982](#user-content-source-Lehmann1982): 211)
-
-| n=an | apedani | mehuni | essandu. |
-|  --- | --- | --- | ---  |
-| CONN=him | that.DAT.SG | time.DAT.SG | eat.they.shall |
+> (9) German
+<pre>
+unser-n     Väter-n  
+our-DAT.PL  father.PL-DAT.PL  
+‘to our fathers’</pre>
 
 
-‘They shall celebrate him on that date.’
-</blockquote>
 
-<blockquote>
-(11) Jaminjung ( [SchultzeBerndt2000](#user-content-source-SchultzeBerndt2000): 92)
-
-| nanggayan | guny-bi-yarluga? |
-|  --- | ---  |
-| who | 2DU.A.3SG.P-FUT-poke |
+> (10) Hittite (Lehmann 1982: 211)
+<pre>
+n=an      apedani      mehuni       essandu.  
+CONN=him  that.DAT.SG  time.DAT.SG  eat.they.shall  
+‘They shall celebrate him on that date.’</pre>
 
 
-‘Who do you two want to spear?’
-</blockquote>
+
+> (11) Jaminjung (Schultze-Berndt 2000: 92)
+<pre>
+nanggayan  guny-bi-yarluga?  
+who        2DU.A.3SG.P-FUT-poke  
+‘Who do you two want to spear?’</pre>
+
 
 The ordering of the two metalanguage elements may be determined by various
 principles that are not easy to generalize over, so no rule will be provided for this.
@@ -260,16 +224,13 @@ If an object-language element is neither formally nor semantically segmentable a
 only the metalanguage happens to lack a single-word equivalent, the underscore
 may be used instead of the period.
 
-<blockquote>
-(12) Turkish
 
-| çık-mak |
-|  ---  |
-| come_out-INF |
+> (12) Turkish
+<pre>
+çık-mak  
+come_out-INF  
+‘to come out’</pre>
 
-
-‘to come out’
-</blockquote>
 
 
 ### Rule 4B. (Optional)
@@ -278,27 +239,21 @@ If an object-language element is formally unsegmentable but has two or more
 clearly distinguishable meanings or grammatical properties, the semi-colon may be
 used. E.g.
 
-<blockquote>
-(13) Latin
 
-| insul-arum |
-|  ---  |
-| island-GEN;PL |
-
-
-‘of the islands’
-</blockquote>
-
-<blockquote>
-(14) French
-
-| aux | chevaux |
-|  --- | ---  |
-| to;ART;PL | horse;PL |
+> (13) Latin
+<pre>
+insul-arum  
+island-GEN;PL  
+‘of the islands’</pre>
 
 
-‘to the horses’
-</blockquote>
+
+> (14) French
+<pre>
+aux        chevaux  
+to;ART;PL  horse;PL  
+‘to the horses’</pre>
+
 
 
 ### Rule 4C. (Optional)
@@ -307,16 +262,13 @@ If an object-language element is formally and semantically segmentable, but the
 author does not want to show the formal segmentation (because it is irrelevant
 and/or to keep the text intact), the colon may be used. E.g.
 
-<blockquote>
-(15) Hittite ( [Lehmann1982](#user-content-source-Lehmann1982): 211)
 
-| n=an | apedani | mehuni | essandu. |
-|  --- | --- | --- | ---  |
-| CONN=him | that:DAT;SG | time:DAT;SG | eat:they:shall |
+> (15) Hittite (Lehmann 1982: 211)
+<pre>
+n=an      apedani      mehuni       essandu.  
+CONN=him  that:DAT;SG  time:DAT;SG  eat:they:shall  
+‘They shall celebrate him on that date.’</pre>
 
-
-‘They shall celebrate him on that date.’
-</blockquote>
 
 
 ### Rule 4D. (Optional)
@@ -325,38 +277,29 @@ If a grammatical property in the object-language is signaled by a
 morphophonological change (ablaut, mutation, tone alternation, etc.), the backslash
 is used to separate the category label and the rest of the gloss.
 
-<blockquote>
-(16) German
 
-| unser-n | Väter-n |
-|  --- | ---  |
-| our-DAT.PL | father\PL-DAT.PL |
-
-
-‘to our fathers’
-</blockquote>
-
-<blockquote>
-(17) Irish
-
-| bhris-is |
-|  ---  |
-| PST\break-2SG |
+> (16) German
+<pre>
+unser-n     Väter-n  
+our-DAT.PL  father\PL-DAT.PL  
+‘to our fathers’</pre>
 
 
-‘you broke’
-</blockquote>
 
-<blockquote>
-(18) Kinyarwanda
-
-| mú-kòrà |
-|  ---  |
-| SBJV\1PL-work |
+> (17) Irish
+<pre>
+bhris-is  
+PST\break-2SG  
+‘you broke’</pre>
 
 
-‘that we work’
-</blockquote>
+
+> (18) Kinyarwanda
+<pre>
+mú-kòrà  
+SBJV\1PL-work  
+‘that we work’</pre>
+
 
 
 ### Rule 4E. (Optional)
@@ -366,16 +309,13 @@ like argument of a transitive verb simultaneously, the symbol ">" may be used in
 the gloss to indicate that the first is the agent-like argument and the second is the
 patient-like argument.
 
-<blockquote>
-(19) Jaminjung ( [SchultzeBerndt2000](#user-content-source-SchultzeBerndt2000): 92)
 
-| nanggayan | guny-bi-yarluga? |
-|  --- | ---  |
-| who | 2DU>3SG-FUT-poke |
+> (19) Jaminjung (Schultze-Berndt 2000: 92)
+<pre>
+nanggayan  guny-bi-yarluga?  
+who        2DU>3SG-FUT-poke  
+‘Who do you two want to spear?’</pre>
 
-
-‘Who do you two want to spear?’
-</blockquote>
 
 
 ### Rule 5: Person and number labels
@@ -383,16 +323,13 @@ patient-like argument.
 Person and number are not separated by a period when they cooccur in this order.
 E.g.
 
-<blockquote>
-(20) Italian
 
-| and-iamo |
-|  ---  |
-| go-PRS.1PL |
+> (20) Italian
+<pre>
+and-iamo  
+go-PRS.1PL  
+‘we go’</pre>
 
-
-‘we go’
-</blockquote>
 
 
 ### Rule 5A. (Optional)
@@ -402,27 +339,21 @@ combined with person. Several authors therefore use non-capitalized shortened
 abbreviations without a period. If this option is adopted, then the gloss
 in (21b) is used.
 
-<blockquote>
-(21a) Belhare
 
-| ne-e | a-khim-chi | n-yuNNa |
-|  --- | --- | ---  |
-| DEM-LOC | 1SG.POSS-house-PL | 3NSG-be.NPST |
-
-
-‘Here are my houses.’
-</blockquote>
-
-<blockquote>
-(21b) Belhare
-
-| ne-e | a-khim-chi | n-yuNNa |
-|  --- | --- | ---  |
-| DEM-LOC | 1sPOSS-house-PL | 3ns-be.NPST |
+> (21a) Belhare
+<pre>
+ne-e     a-khim-chi         n-yuNNa  
+DEM-LOC  1SG.POSS-house-PL  3NSG-be.NPST  
+‘Here are my houses.’</pre>
 
 
-‘Here are my houses.’
-</blockquote>
+
+> (21b) Belhare
+<pre>
+ne-e     a-khim-chi       n-yuNNa  
+DEM-LOC  1sPOSS-house-PL  3ns-be.NPST  
+‘Here are my houses.’</pre>
+
 
 
 ### Rule 6: Non-overt elements
@@ -432,27 +363,21 @@ to an overt element in the example, it can be enclosed in square brackets (as in
 obvious alternative is to include an overt "∅" in the object-language text, which is
 separated by a hyphen like an overt element (as in 22b).
 
-<blockquote>
-(22a) Latin
 
-| puer |
-|  ---  |
-| boy[NOM.SG] |
-
-
-‘boy’
-</blockquote>
-
-<blockquote>
-(22b) Latin
-
-| puer-∅ |
-|  ---  |
-| boy-NOM.SG |
+> (22a) Latin
+<pre>
+puer  
+boy[NOM.SG]  
+‘boy’</pre>
 
 
-‘boy’
-</blockquote>
+
+> (22b) Latin
+<pre>
+puer-∅  
+boy-NOM.SG  
+‘boy’</pre>
+
 
 
 ### Rule 7: Inherent categories
@@ -460,16 +385,13 @@ separated by a hyphen like an overt element (as in 22b).
 Inherent, non-overt categories such as gender may be indicated in the gloss, but a
 special boundary symbol, the round parenthesis, is used. E.g.
 
-<blockquote>
-(23) Hunzib ( [vandenBerg1995](#user-content-source-vandenBerg1995): 46)
 
-| oz#-di-g | xõxe | m-uq'e-r |
-|  --- | --- | ---  |
-| boy-OBL-AD | tree(G4) | G4-bend-PRET |
+> (23) Hunzib (van den Berg 1995: 46)
+<pre>
+ož-di-g     xõxe      m-uq'e-r  
+boy-OBL-AD  tree(G4)  G4-bend-PRET  
+‘Because of the boy the tree bent.’</pre>
 
-
-‘Because of the boy the tree bent.’
-</blockquote>
 
 
 ### Rule 8: Bipartite elements
@@ -480,53 +402,41 @@ may be treated in two different ways:
 
 (i) The gloss may simply be repeated:
 
-<blockquote>
-(24) Lakhota
 
-| na-wíčha-wa-xʔu̧ |
-|  ---  |
-| hear-3PL.UND-1SG.ACT-hear |
+> (24) Lakhota
+<pre>
+na-wíčha-wa-xʔu̧  
+hear-3PL.UND-1SG.ACT-hear  
+‘I hear them’</pre>
 
-
-‘I hear them’
-</blockquote>
 
 (ii) One of the two parts may be represented by a special label such as STEM:
 
-<blockquote>
-(25) Lakhota
 
-| na-wíčha-wa-xʔu̧ |
-|  ---  |
-| hear-3PL.UND-1SG.ACT- STEM |
+> (25) Lakhota
+<pre>
+na-wíčha-wa-xʔu̧  
+hear-3PL.UND-1SG.ACT- STEM  
+‘I hear them’</pre>
 
-
-‘I hear them’
-</blockquote>
 
 Circumfixes are "bipartite affixes" and can be treated in the same way, e.g.
 
-<blockquote>
-(26a) German
 
-| ge-seh-en |
-|  ---  |
-| PTCP-see-PTCP |
-
-
-‘seen’
-</blockquote>
-
-<blockquote>
-(26b) German
-
-| ge-seh-en |
-|  ---  |
-| PTCP-see-CIRC |
+> (26a) German
+<pre>
+ge-seh-en  
+PTCP-see-PTCP  
+‘seen’</pre>
 
 
-‘seen’
-</blockquote>
+
+> (26b) German
+<pre>
+ge-seh-en  
+PTCP-see-CIRC  
+‘seen’</pre>
+
 
 
 ### Rule 9: Infixes
@@ -534,27 +444,21 @@ Circumfixes are "bipartite affixes" and can be treated in the same way, e.g.
 Infixes are enclosed by angle brackets, and so is the object-language counterpart in
 the gloss.
 
-<blockquote>
-(27) Tagalog
 
-| b\<um>ili |
-|  ---  |
-| \<ACTFOC>buy |
-
-
-‘buy’
-</blockquote>
-
-<blockquote>
-(28) Latin
-
-| reli\<n>qu-ere |
-|  ---  |
-| leave\<PRS>-INF |
+> (27) Tagalog
+<pre>
+b<um>ili  
+<ACTFOC>buy  
+‘buy’</pre>
 
 
-‘to leave’
-</blockquote>
+
+> (28) Latin
+<pre>
+reli<n>qu-ere  
+leave<PRS>-INF  
+‘to leave’</pre>
+
 
 Infixes are generally easily identifiable as left-peripheral (as in 27) or as right-
 peripheral (as in 28), and this determines the position of the gloss corresponding to
@@ -567,38 +471,29 @@ some other basis for linearizing the gloss has to be found.
 Reduplication is treated similarly to affixation, but with a tilde (instead of an
 ordinary hyphen) connecting the copied element to the stem.
 
-<blockquote>
-(29) Hebrew
 
-| yerak~rak-im |
-|  ---  |
-| green~ATT-M.PL |
-
-
-‘greenish ones’
-</blockquote>
-
-<blockquote>
-(30) Tagalog
-
-| bi~bili |
-|  ---  |
-| IPFV~buy |
+> (29) Hebrew
+<pre>
+yerak~rak-im  
+green~ATT-M.PL  
+‘greenish ones’</pre>
 
 
-‘is buying’
-</blockquote>
 
-<blockquote>
-(31) Tagalog
-
-| b\<um>i~bili |
-|  ---  |
-| \<ACTFOC>IPFV~buy |
+> (30) Tagalog
+<pre>
+bi~bili  
+IPFV~buy  
+‘is buying’</pre>
 
 
-‘is buying’
-</blockquote>
+
+> (31) Tagalog
+<pre>
+b<um>i~bili  
+<ACTFOC>IPFV~buy  
+‘is buying’</pre>
+
 
 
 ## Appendix: List of Standard Abbreviations
@@ -694,10 +589,9 @@ VOC | vocative
 
 ## References
 
-- <a id="source-Fortescue1984"> </a>Fortescue, Michael. 1984. West Greenlandic. (Croom Helm Descriptive Grammars.) London: Croom Helm. xv+381pp.
-- <a id="source-Haspelmath1993"> </a>Haspelmath, Martin. 1993. A Grammar of Lezgian. (Mouton Grammar Library, 9.) Berlin: Mouton de Gruyter. xx+567pp.
-- <a id="source-Lehmann1982"> </a>Lehmann, Christian. 1982. Directions For Interlinear Morphemic Translations. Folia Linguistica 16. 199-224. Berlin, New York: Walter de Gruyter.
-- <a id="source-SchultzeBerndt2000"> </a>Schultze-Berndt, Eva. 2000. Simple and complex verbs in Jaminjung: A study of event categorisation in an Australian language. 14. Nijmegen: Wageningen: Ponsen and Looijen. (Doctoral dissertation, Katholieke Universiteit Nijmegen; 633pp.)
-- <a id="source-Sneddon1996"> </a>Sneddon, James Neil. 1996. Indonesian: A Comprehensive Grammar. (Routledge Grammars Series.) London & New York: Routledge. xxviii+387pp.
-- <a id="source-vandenBerg1995"> </a>van den Berg, Helma. 1995. A Grammar of Hunzib (with Texts and Lexicon). (LINCOM Studies in Caucasian Linguistics, 1.) München: Lincom. xvi+366pp.
-
+- Fortescue, Michael. 1984. West Greenlandic. (Croom Helm Descriptive Grammars.) London: Croom Helm. xv+381pp.
+- Haspelmath, Martin. 1993. A Grammar of Lezgian. (Mouton Grammar Library, 9.) Berlin: Mouton de Gruyter. xx+567pp.
+- Lehmann, Christian. 1982. Directions For Interlinear Morphemic Translations. Folia Linguistica 16. 199-224. Berlin, New York: Walter de Gruyter.
+- Schultze-Berndt, Eva. 2000. Simple and complex verbs in Jaminjung: A study of event categorisation in an Australian language. 14. Nijmegen: Wageningen: Ponsen and Looijen. (Doctoral dissertation, Katholieke Universiteit Nijmegen; 633pp.)
+- Sneddon, James Neil. 1996. Indonesian: A Comprehensive Grammar. (Routledge Grammars Series.) London & New York: Routledge. xxviii+387pp.
+- van den Berg, Helma. 1995. A Grammar of Hunzib (with Texts and Lexicon). (LINCOM Studies in Caucasian Linguistics, 1.) München: Lincom. xvi+366pp.

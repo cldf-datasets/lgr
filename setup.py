@@ -17,7 +17,7 @@ setup(
     install_requires=[
         'pycldf>=1.24',
         'cldfbench',
-        'jinja2',
+        'cldfviz',
     ],
     extras_require={
         'test': [

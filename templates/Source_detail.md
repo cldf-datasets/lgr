@@ -1,1 +1,0 @@
-<a id="source-{{ ctx.id }}"> </a>{{ ctx.text() }}
