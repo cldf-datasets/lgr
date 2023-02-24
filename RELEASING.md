@@ -1,6 +1,18 @@
 # Releasing LGR
 
-Run
+Install `cldfviz`.
+
+Make sure the CLDF dataset is valid:
 ```shell
-cldfbench cldfviz.text --text-file README_tmpl.md --output README.md --templates templates cldf/Generic-metadata.json
+cldf validate cldf
+```
+
+Check the metadata:
+```shell
+cldf stats cldf
+```
+
+Render the full document describing the rules by running
+```shell
+cldfbench cldfviz.text --media-id lgr --output README.md --templates templates cldf
 ```
