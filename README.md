@@ -1,4 +1,3 @@
-
 # The Leipzig Glossing Rules: Conventions for interlinear morpheme-by-morpheme glosses
 
 Leipzig, last change: May 31, 2015
