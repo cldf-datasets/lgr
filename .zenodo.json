@@ -1,0 +1,29 @@
+{
+    "creators": [
+        {
+            "name": "Bernard Comrie"
+        },
+        {
+            "name": "Martin Haspelmath"
+        },
+        {
+            "name": "Balthasar Bickel"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Robert Forkel",
+            "type": "DataCurator"
+        }
+    ],
+    "title": "CLDF dataset derived from the Leipzig Glossing Rules",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Generic",
+        "linguistics"
+    ],
+    "upload_type": "dataset",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}

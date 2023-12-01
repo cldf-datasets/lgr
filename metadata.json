@@ -1,0 +1,8 @@
+{
+    "id": "lgr",
+    "title": "CLDF dataset derived from the Leipzig Glossing Rules",
+    "description": "This CLDF dataset contains the examples used in the specification of the Leipzig Glossing Rules in a CLDF ExampleTable, as well as the specification itself as CLDF Markdown document.",
+    "license": "CC-BY-4.0",
+    "url": "https://www.eva.mpg.de/lingua/pdf/Glossing-Rules.pdf",
+    "citation": null
+}

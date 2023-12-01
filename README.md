@@ -312,7 +312,7 @@ patient-like argument.
 > (19) Jaminjung (Schultze-Berndt 2000: 92)
 <pre>
 nanggayan  guny-bi-yarluga?  
-who        2DU>3SG-FUT-poke  
+who        2DU&gt;3SG-FUT-poke  
 ‘Who do you two want to spear?’</pre>
 
 
@@ -446,16 +446,16 @@ the gloss.
 
 > (27) Tagalog
 <pre>
-b<um>ili  
-<ACTFOC>buy  
+b&lt;um&gt;ili  
+&lt;ACTFOC&gt;buy  
 ‘buy’</pre>
 
 
 
 > (28) Latin
 <pre>
-reli<n>qu-ere  
-leave<PRS>-INF  
+reli&lt;n&gt;qu-ere  
+leave&lt;PRS&gt;-INF  
 ‘to leave’</pre>
 
 
@@ -489,8 +489,8 @@ IPFV~buy
 
 > (31) Tagalog
 <pre>
-b<um>i~bili  
-<ACTFOC>IPFV~buy  
+b&lt;um&gt;i~bili  
+&lt;ACTFOC&gt;IPFV~buy  
 ‘is buying’</pre>
 
 
