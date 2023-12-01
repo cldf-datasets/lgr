@@ -1,3 +1,4 @@
+
 # The Leipzig Glossing Rules: Conventions for interlinear morpheme-by-morpheme glosses
 
 Leipzig, last change: May 31, 2015
@@ -415,7 +416,7 @@ hear-3PL.UND-1SG.ACT-hear
 > (25) Lakhota
 <pre>
 na-wíčha-wa-xʔu̧  
-hear-3PL.UND-1SG.ACT- STEM  
+hear-3PL.UND-1SG.ACT-STEM  
 ‘I hear them’</pre>
 
 
@@ -550,8 +551,8 @@ IRR | irrealis
 LOC | locative
 M | masculine
 N | neuter
-N- | non- (e.g. NSG nonsingular
-NEG | negation
+N- | non- (e.g. NSG nonsingular, NPST nonpast)
+NEG | negation, negative
 NMLZ | nominalizer/nominalization
 NOM | nominative
 OBJ | object

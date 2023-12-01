@@ -50,8 +50,8 @@ IRR,irrealis
 LOC,locative
 M,masculine
 N,neuter
-N-,non- (e.g. NSG nonsingular, NPST nonpast)
-NEG,negation, negative
+N-,"non- (e.g. NSG nonsingular, NPST nonpast)"
+NEG,"negation, negative"
 NMLZ,nominalizer/nominalization
 NOM,nominative
 OBJ,object
